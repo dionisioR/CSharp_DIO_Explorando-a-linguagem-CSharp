@@ -1,0 +1,15 @@
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\bin\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.exe
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\bin\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.deps.json
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\bin\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.runtimeconfig.json
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\bin\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.dll
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\bin\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.pdb
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.AssemblyInfoInputs.cache
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.AssemblyInfo.cs
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.sourcelink.json
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.dll
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\refint\CSharp_DIO_Explorando-a-linguagem-CSharp.dll
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.pdb
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.genruntimeconfig.cache
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\ref\CSharp_DIO_Explorando-a-linguagem-CSharp.dll
