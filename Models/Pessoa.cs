@@ -7,6 +7,11 @@ namespace CSharp_DIO_Explorando_a_linguagem_CSharp.Models
 {
     public class Pessoa
     {
+        public Pessoa(){}
+        public Pessoa(string nome, string sobrenome){
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
         private string _nome;
         private int _idade;
         // propriedades
