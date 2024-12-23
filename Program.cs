@@ -96,20 +96,20 @@ using Newtonsoft.Json;
 
 //----------------------------------------------
 // deserializando um objeto
-string conteudoArquivo = File.ReadAllText("Arquivos/vendasLista.json");
-List<VendaLendoJSON> vendasDeserializadas = JsonConvert.DeserializeObject<List<VendaLendoJSON>>(conteudoArquivo);
-foreach (var item in vendasDeserializadas)
-{
-    Console.WriteLine(item.Id);
-    Console.WriteLine(item.Produto);
-    Console.WriteLine(item.Preco);
-    Console.WriteLine(item.DataVenda.ToString("dd/MM/yyyy"));
-    Console.WriteLine((item.Desconto.HasValue) ? item.Desconto : 0);
-    Console.WriteLine("------------------------");
-}
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendasLista.json");
+// List<VendaLendoJSON> vendasDeserializadas = JsonConvert.DeserializeObject<List<VendaLendoJSON>>(conteudoArquivo);
+// foreach (var item in vendasDeserializadas)
+// {
+//     Console.WriteLine(item.Id);
+//     Console.WriteLine(item.Produto);
+//     Console.WriteLine(item.Preco);
+//     Console.WriteLine(item.DataVenda.ToString("dd/MM/yyyy"));
+//     Console.WriteLine((item.Desconto.HasValue) ? item.Desconto : 0);
+//     Console.WriteLine("------------------------");
+// }
 
 //----------------------------------------------
-// bool? desejaReceberEmail = null;
+// bool? desejaReceberEmail = null;dio
 // if (desejaReceberEmail.HasValue && desejaReceberEmail.Value)
 // {
 //     Console.WriteLine("Sim, desejo receber e-mails");
@@ -118,3 +118,51 @@ foreach (var item in vendasDeserializadas)
 // {
 //     Console.WriteLine("Não, não desejo receber e-mails");
 // }
+//----------------------------------------------
+
+// Objetos do tipo anônimo são objetos que não possuem um tipo de leitura definido [get],
+// Não podem ter seu valores modificados
+// var tipoAnonimo = new
+// {
+//     Nome = "Anakin",
+//     Idade = 11,
+//     Sobrenome = "Skywalker"
+// };
+// Console.WriteLine(tipoAnonimo.Nome);
+// Console.WriteLine(tipoAnonimo.Idade);
+// Console.WriteLine(tipoAnonimo.Sobrenome);
+
+//----------------------------------------------
+
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendasLista.json");
+// List<VendaLendoJSON> listaVenda = JsonConvert.DeserializeObject<List<VendaLendoJSON>>(conteudoArquivo);
+// var listaAnonima = listaVenda.Select(x => new {x.Produto, x.Preco});
+// foreach (var item in listaAnonima)
+// {
+//     Console.WriteLine(item.Produto);
+//     Console.WriteLine(item.Preco);
+//     Console.WriteLine("------------------------");
+// }
+//----------------------------------------------
+
+// dynamic variavelDinamica = 4;
+// Console.WriteLine($"Tipo da variável dinâmica: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+// variavelDinamica = "Anakin Skywalker";
+// Console.WriteLine($"Tipo da variável dinâmica: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+// variavelDinamica = new Pessoa("Anakin", "Skywalker");
+// Console.WriteLine($"Tipo da variável dinâmica: {variavelDinamica.GetType()}, Valor: {variavelDinamica.Nome}");
+
+// variavelDinamica = true;
+// Console.WriteLine($"Tipo da variável dinâmica: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+//----------------------------------------------
+
+MeuArray<int> arrayInteiros = new MeuArray<int>();
+arrayInteiros.AdicionarElementoArray(30);
+Console.WriteLine(arrayInteiros[0]);
+Console.WriteLine("------------------------");
+MeuArray<string> arrayStrings = new MeuArray<string>();
+arrayStrings.AdicionarElementoArray("String adicionada ao array");
+Console.WriteLine(arrayStrings[0]);
+Console.WriteLine("------------------------");
