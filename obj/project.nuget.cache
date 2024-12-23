@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IiZNv4fqPyM=",
+  "dgSpecHash": "WAS79LsrtgU=",
   "success": true,
   "projectFilePath": "F:\\CSharp\\CSharp_DIO_Explorando-a-linguagem-CSharp\\CSharp_DIO_Explorando-a-linguagem-CSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Micro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,3 +13,6 @@ F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\refint\CShar
 F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.pdb
 F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.genruntimeconfig.cache
 F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\ref\CSharp_DIO_Explorando-a-linguagem-CSharp.dll
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\CSharp_DIO_Explorando-a-linguagem-CSharp.csproj.AssemblyReference.cache
+F:\CSharp\CSharp_DIO_Explorando-a-linguagem-CSharp\obj\Debug\net8.0\CSharp_D.5CD72198.Up2Date
